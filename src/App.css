@@ -1,15 +1,13 @@
 .main-container {
-  background-color: red;
+  background-color: rgba(6, 6, 41, 0.295);
   height: 80vh;
   width: 60vw;
-  border: 2px solid blue;
 }
 
 nav {
   align-items: center;
   display: flex;
   justify-content: start;
-  background-color: green;
   height: 70px;
   width: 100%;
 }
