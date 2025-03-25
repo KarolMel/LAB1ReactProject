@@ -1,0 +1,21 @@
+.main-container {
+  background-color: red;
+  height: 80vh;
+  width: 60vw;
+  border: 2px solid blue;
+}
+
+nav {
+  align-items: center;
+  display: flex;
+  justify-content: start;
+  background-color: green;
+  height: 70px;
+  width: 100%;
+}
+
+li {
+  margin: 20px;
+  font-size: 20px;
+  list-style: none;
+}
