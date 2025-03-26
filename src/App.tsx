@@ -2,6 +2,7 @@ import './App.css'
 import { createHashRouter, Link, Outlet, RouterProvider } from 'react-router-dom'
 import Home from './pages/Home'
 import Profile from './pages/Profile'
+import AvatarIcon from './components/AvatarIcon'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
         <nav>
           <li><Link to='/'>Home Page</Link></li>
           <li><Link to='/profile'>Profile</Link></li>
+          <AvatarIcon />
         </nav>
         <Outlet />
       </div>

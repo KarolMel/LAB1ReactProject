@@ -1,0 +1,37 @@
+[
+    {
+      "id": 0,
+      "name": "defaultAvatar",
+      "image": "defaultAvatar.png"
+    },
+    {
+      "id": 1,
+      "name": "avatar1",
+      "image": "avatar1.png"
+    },
+    {
+      "id": 2,
+      "name": "avatar2",
+      "image": "avatar2.png"
+    },
+    {
+      "id": 3,
+      "name": "avatar3",
+      "image": "avatar3.png"
+    },
+    {
+      "id": 4,
+      "name": "avatar4",
+      "image": "avatar4.png"
+    },
+    {
+        "id": 5,
+        "name": "avatar5",
+        "image": "avatar5.png"
+    },
+    {
+        "id": 6,
+        "name": "avatar6",
+        "image": "avatar6.png"
+    }
+  ]
