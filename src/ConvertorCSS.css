@@ -1,0 +1,9 @@
+@media (min-width: 360px) and (max-width: 980px) {
+    .convert-form {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 30px;
+    }
+  }
