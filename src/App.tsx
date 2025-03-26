@@ -1,5 +1,5 @@
 import './App.css'
-import { createHashRouter, Link, Outlet, Route, RouterProvider } from 'react-router-dom'
+import { createHashRouter, Link, Outlet, RouterProvider } from 'react-router-dom'
 import Home from './pages/Home'
 import Profile from './pages/Profile'
 
